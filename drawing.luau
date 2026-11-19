@@ -1,6 +1,6 @@
 local DrawingCache = {}
 local DrawingObjects = {}
--- umi https://discord.gg/n22jB7jugQ
+-- umi discord.gg/n22jB7jugQ
 local Fonts = {
     [0] = Enum.Font.Arial,
     [1] = Enum.Font.BuilderSans,
